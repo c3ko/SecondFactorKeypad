@@ -11,4 +11,4 @@ This project will require at minimum:
   <li>Speaker</li>
 </ul>
 
-<p><img src="https://github.com/rickyramnath97/gps/blob/master/images/sensor.jpg" alt="Image of Sensor" />&lt;/p&gt;</p>
+<img src="https://github.com/rickyramnath97/gps/blob/master/images/sensor.jpg" alt="Image of Sensor" />
