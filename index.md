@@ -11,3 +11,7 @@ This project will require at minimum:
   <li>LED lights</li>
   <li>Speaker</li>
 </ul>
+
+<h2>September 17th, 2019</h2>
+<p>Gantt Chart and Schedule Overview:<p>
+<img src="/images/gant.png alt="gantt chart" />
