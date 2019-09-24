@@ -15,3 +15,13 @@ This project will require at minimum:
 <h2>September 17th, 2019</h2>
 <p>Gantt Chart and Schedule Overview:<p>
 <img src="images/gant.png" alt="gantt chart" />
+
+<h2>September 24th, 2019</h2>
+<h3>Budget Summary</h3>
+<p>Sub-Total: $86.84 CAD</p>
+<p>Taxes: $11.29 CAD</p>
+<p>Shipping: $8.00 CAD</p>
+<p>Total: $106.13</p>
+
+Full Budget breakdown can be found Here:
+<a href="documentation/Budget.xlsx">Budget Spreadsheet</a>
