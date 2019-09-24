@@ -7,7 +7,6 @@ This project will require at minimum:
 <ul>
   <li>COM-14662 12-Button Keypad</li>
   <li>STM32f103c8t6 board</li>
-  <li>Backlit TFT LCD screen</li>
   <li>LED lights</li>
   <li>Speaker</li>
 </ul>
