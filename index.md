@@ -2,7 +2,7 @@
 <p>Repository Created!</p>
 
 <h2>September 10th, 2019</h2>
-<p>For my hardware project, I've decided to implement a two-factor authentication system using Keypad.<p>
+<p>For my hardware project, I've decided to implement a two-factor authentication system using a Keypad.<p>
 This project will require at minimum:
 <ul>
   <li>COM-14662 12-Button Keypad</li>
