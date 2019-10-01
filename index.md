@@ -1,7 +1,7 @@
 <h2>October 1, 2019</h2>
-<p></p>
+<p>The parts have been ordered and should arrive by October 1st.</p>
 <img src="images/invoice_list.PNG" alt="invoice list" />
-<p></p>
+<p>The total for the budget has changed as I've decided to use the NUCLEO-L412KB using mbed. This was due to the order for the blue pill being cancelled and prime shipping was no longer available.</p>
 <img src="images/invoice_totals.PNG" alt="invoice totals" />
 
 <h2>September 24th, 2019</h2>
