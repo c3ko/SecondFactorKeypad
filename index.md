@@ -27,6 +27,6 @@ Full Budget breakdown can be found Here:
 
 <h2>October 1, 2019</h2>
 <p></p>
-<img src="images/invoice_list.png" alt="invoice list" />
+<img src="images/invoice_list.PNG" alt="invoice list" />
 <p></p>
-<img src="images/invoice_totals.png" alt="invoice totals" />
+<img src="images/invoice_totals.PNG" alt="invoice totals" />
