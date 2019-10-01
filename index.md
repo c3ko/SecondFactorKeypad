@@ -24,3 +24,9 @@ This project will require at minimum:
 
 Full Budget breakdown can be found Here:
 <a href="documentation/Budget.xlsx">Budget Spreadsheet</a>
+
+<h2>October 1, 2019</h2>
+<p></p>
+<img src="images/invoice_list.png" alt="invoice list" />
+<p></p>
+<img src="images/invoice_totals.png" alt="invoice totals" />
