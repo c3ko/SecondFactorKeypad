@@ -1,12 +1,15 @@
 <h2>October 8, 2019</h2>
 <h3>Proof of Acquisition</h3>
 <p>All parts arrived together on Tuesday, October 1, 2019</p>
-<img src="images/Nucleo-Front.jpg" height="20%" width="20%" alt="Nucleo Bag" />
-<img src="images/Piezzo-Front.jpg" height="20%" width="20%" alt="Nucleo Bag" />
-<img src="images/Keypad-Front.jpg" height="20%" width="20%" alt="Nucleo Bag" />
-<img src="images/Green-LED-Front.jpg" height="20%" width="20%" alt="Nucleo Bag" />
+<img src="images/Nucleo-Front.jpg" height="20%" width="20%" alt="Nucleo" />
+<img src="images/Piezzo-Front.jpg" height="20%" width="20%" alt="Piezo" />
+<img src="images/Keypad-Front.jpg" height="20%" width="20%" alt="Keypad" />
+<img src="images/Green-LED-Front.jpg" height="20%" width="20%" alt="Green LED" />
+<img src="images/Green-LED-Front.jpg" height="20%" width="20%" alt="RED LED" />
+<img src="images/RaspberryPi.jpg" height="20%" width="20%" alt="Raspberry Pi" />
 
-<p></p>
+
+<p>The Green and Red LED lights are for prototyping on the breadboard. The Nucleo L432KC has a built in debugger and is compatible with Arduino IDE. This week I'll setup the Arduino IDE environment to work with the board. </p>
 <h2>October 1, 2019</h2>
 <p>The parts have been ordered and should arrive by October 1st.</p>
 <img src="images/invoice_list.PNG" alt="invoice list" />
