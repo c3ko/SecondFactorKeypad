@@ -2,6 +2,10 @@
 <h3>Proof of Acquisition</h3>
 <p>All parts arrived together on Tuesday, October 1, 2019</p>
 <img src="images/Nucleo-Front.jpg" height="20%" width="20%" alt="Nucleo Bag" />
+<img src="images/Piezzo-Front.jpg" height="20%" width="20%" alt="Nucleo Bag" />
+<img src="images/Keypad-Front.jpg" height="20%" width="20%" alt="Nucleo Bag" />
+<img src="images/Green-LED-Front.jpg" height="20%" width="20%" alt="Nucleo Bag" />
+
 <p></p>
 <h2>October 1, 2019</h2>
 <p>The parts have been ordered and should arrive by October 1st.</p>
