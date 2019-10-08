@@ -1,6 +1,7 @@
 <h2>October 8, 2019</h2>
-<h3>Proof of Acqusition</h3>
+<h3>Proof of Acquisition</h3>
 <p>All parts arrived together on Tuesday, October 1, 2019</p>
+<img src="images/Nucleo-Front.jpg" height="20%" width="20%" alt="Nucleo Bag" />
 <p></p>
 <h2>October 1, 2019</h2>
 <p>The parts have been ordered and should arrive by October 1st.</p>
