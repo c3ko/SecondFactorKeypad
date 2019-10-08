@@ -1,3 +1,7 @@
+<h2>October 8, 2019</h2>
+<h3>Proof of Acqusition</h3>
+<p>All parts arrived together on Tuesday, October 1, 2019</p>
+<p></p>
 <h2>October 1, 2019</h2>
 <p>The parts have been ordered and should arrive by October 1st.</p>
 <img src="images/invoice_list.PNG" alt="invoice list" />
