@@ -1,3 +1,8 @@
+<h2>October 15, 2019</h2>
+<h3>Fritzing Designs</h3>
+<img src="images/pcb.png" height="20%" width="20%" alt="keypad pcb" />
+<img src="images/breadboard.png" height="20%" width="20%" alt="keypad breadboard" />
+<img src="images/schematic.jpg" height="20%" width="20%" alt="keypad schematic" />
 <h2>October 8, 2019</h2>
 <h3>Proof of Acquisition</h3>
 <p>All parts arrived together on Tuesday, October 1, 2019</p>
