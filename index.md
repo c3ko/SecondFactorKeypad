@@ -1,6 +1,6 @@
 <h2>October 15, 2019</h2>
 <h3>Fritzing Designs</h3>
-<p>These designs are temporary as I'm using a Nucleo-32 instead of the STM32 blue pill board. I'm in the process of making designs with custom header pins based on the Nucleo L432KC in Fritzing</p>
+<p color="red">These designs are temporary as I'm using a Nucleo-32 instead of the STM32 blue pill board. I'm in the process of making designs with custom header pins based on the Nucleo L432KC in Fritzing</p>
 <img src="images/pcb.png" height="20%" width="20%" alt="keypad pcb" />
 <img src="images/breadboard.png" height="20%" width="20%" alt="keypad breadboard" />
 <img src="images/schematic.png" height="20%" width="20%" alt="keypad schematic" />
