@@ -1,13 +1,16 @@
 <h2>October 29, 2019</h2>
 <h3>Breadboard Milestone</h3>
-
+Attempted Soldering of pins on to COM-14662 Keypad. 
 <h2>October 25, 2019</h2>
+<img src="images/breadboard.jpg" height="40%" width="40%" alt="breadboard" />
+
+<h2>October 15, 2019</h2>
+
 <h3>Updated Fritzing Designs</h3>
 <img src="images/updated_pcb.png" height="20%" width="20%" alt="keypad pcb" />
 <img src="images/updated_bb.png" height="20%" width="20%" alt="keypad breadboard" />
 <img src="images/updated_schem.png" height="20%" width="20%" alt="keypad schematic" />
 
-<h2>October 15, 2019</h2>
 <h3>Fritzing Designs</h3>
 <p color="red">These designs are temporary as I'm using a Nucleo-32 instead of the STM32 blue pill board. I'm in the process of making designs with custom header pins based on the Nucleo L432KC in Fritzing</p>
 <img src="images/pcb.png" height="20%" width="20%" alt="keypad pcb" />
