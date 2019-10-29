@@ -1,7 +1,6 @@
 <h2>October 29, 2019</h2>
 <h3>Breadboard Milestone</h3>
-Attempted Soldering of pins on to COM-14662 Keypad. 
-<h2>October 25, 2019</h2>
+Soldered Header pins on to the Keypad. Red light and three buzzes when when entered number doesn't match hardcoded value. Green light and single alarm when correct.
 <img src="images/breadboard.jpg" height="40%" width="40%" alt="breadboard" />
 
 <h2>October 15, 2019</h2>
