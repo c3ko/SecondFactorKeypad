@@ -4,8 +4,8 @@
 
 <p>The first soldering of headers on the PCB was done on the wrong side of the board. I managed to desolder the headers and solder them back on the component side of the board. There is continuity between the headers and the development board and keypad work as they did on the breadboard: </p>
 
-<img src="images/pcb_soldered.png" height="20%" width="20%" alt="keypad pcb" />
-<img src="images/pcb_soldered_working.png" height="20%" width="20%" alt="keypad pcb" />
+<img src="images/pcb_soldered.jpg" height="20%" width="20%" alt="keypad pcb" />
+<img src="images/pcb_soldered_working.jpg" height="20%" width="20%" alt="keypad pcb" />
 
 
 <h2>October 29, 2019</h2>
