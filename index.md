@@ -1,3 +1,8 @@
+<h2>November 5, 2019</h2>
+
+<h3>PCB Soldered </h3>
+
+
 <h2>October 29, 2019</h2>
 
 <h3>Update </h3>
@@ -15,6 +20,8 @@ This added an additional $15.75 to the budget (includeing shipping).
 <img src="images/code_screenshot.png" height="20%" width="20%" alt="keypad pcb" />
 
 The code was sourced from a tutorial example at: <a href="http://robojax.com/learn/arduino/?vid=robojax-keypad-4x3">Robojax 4x3 Keypad Example</a>
+
+My code file can be found at: <a href="software/blink_example1.ino">sotfware/blink_example1.ino</a>
 
 <h3>Breadboard Milestone</h3>
 Soldered Header pins on to the Keypad. Red light and three buzzes when when entered number doesn't match hardcoded value. Green light and single alarm when correct.
