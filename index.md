@@ -1,4 +1,21 @@
 <h2>October 29, 2019</h2>
+
+<h3>Update </h3>
+It turns out that when I had straightened the header on the keypad, the contact between the solder and the copper surface flexed, taking the copper surface pads off the keypad with the exception of pins 8 and 4, which are for row 2 and column 1 respectively. This is likely why 4 was the only button working on the keypad. 
+
+<p>I ordered and received another keypad:</p>
+
+<img src="images/invoice_second_keypad.png" height="20%" width="20%" alt="keypad pcb" />
+
+This added an additional $15.75 to the budget (includeing shipping).
+
+<p>The new keypad works perfectly. Screenshots of the output and the code used. </p>
+
+<img src="images/output_screenshot.png" height="20%" width="20%" alt="keypad pcb" />
+<img src="images/code_screenshot.png" height="20%" width="20%" alt="keypad pcb" />
+
+The code was sourced from a tutorial example at: <a href="http://robojax.com/learn/arduino/?vid=robojax-keypad-4x3">Robojax 4x3 Keypad Example</a>
+
 <h3>Breadboard Milestone</h3>
 Soldered Header pins on to the Keypad. Red light and three buzzes when when entered number doesn't match hardcoded value. Green light and single alarm when correct.
 
