@@ -1,3 +1,17 @@
+
+<h2>November 5, 2019</h2>
+
+<h3>PCB Powered On</h3>
+The 12-Button Keypad uses a grid with switches were connections are closed and a lower resistance allows 5V to pass through. This method for reading key presses doesn't require seperate pins for power and ground so powering up this PCB is as simple as plugging in the the input pins into the socket on the PCB connecting it to the inputs A0-A8 on the Nucleo-32.
+
+<img src="images/pinout.png" height="20%" width="20%" alt="keypad pinout" />
+
+As the images below show. The PCB is powered on and is communicating key presses serially to a terminal:
+<img src="images/pcb_soldered_working.jpg" height="20%" width="20%" alt="keypad pcb" />
+<img src="images/output_screenshot.png" height="20%" width="20%" alt="keypad pcb" />
+
+
+
 <h2>November 5, 2019</h2>
 
 <h3>PCB Soldered </h3>
@@ -5,8 +19,10 @@
 <p>The first soldering of headers on the PCB was done on the wrong side of the board. I managed to desolder the headers and solder them back on the component side of the board. There is continuity between the headers and the development board and keypad work as they did on the breadboard: </p>
 
 <img src="images/pcb_soldered.jpg" height="20%" width="20%" alt="keypad pcb" />
-<img src="images/pcb_soldered_working.jpg" height="20%" width="20%" alt="keypad pcb" />
 
+While the original PCB was designed with LED's and a Piezzo Buzzer in mind, I've decided to forego them as their functionality (notifiying a user of a correct or incorrect input) can be more easily implmented using Raspberry Pi which will be connected using the USB port on the Nucleo-32. 
+
+Besides that, the project is on schedule and no new parts were required.
 
 <h2>October 29, 2019</h2>
 
