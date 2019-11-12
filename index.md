@@ -1,5 +1,5 @@
 
-<h2>November 5, 2019</h2>
+<h2>November 11, 2019</h2>
 
 <h3>PCB Powered On</h3>
 The 12-Button Keypad uses a grid with switches were connections are closed and a lower resistance allows 5V to pass through. This method for reading key presses doesn't require seperate pins for power and ground so powering up this PCB is as simple as plugging in the the input pins into the socket on the PCB connecting it to the inputs A0-A8 on the Nucleo-32.
