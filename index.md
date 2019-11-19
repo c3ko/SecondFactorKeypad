@@ -1,4 +1,8 @@
+<h2>November 19, 2019</h2>
 
+<h3>Enclosure Progress</h3>
+
+<p></p>
 <h2>November 11, 2019</h2>
 
 <h3>PCB Powered On</h3>
