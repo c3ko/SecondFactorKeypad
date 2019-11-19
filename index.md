@@ -6,8 +6,12 @@
 The snap-fit enclosure case for the keypad will have a support cross-section for the keypad to rest on as its current cantilevered position will damage the sockets/pins when pressure is applied to the buttons.
 </p>
 
-<img src="images/Enclosure_CAD.PNG" height="20%" width="20%" alt="keypad bottom enclosure" />
+<img src="images/Enclosure_CAD.PNG" height="20%" width="20%" alt="keypad enclosure" />
 
+The files can be found at:
+
+<a href="mechanical/KeyPadEnclosure_bottom.stl">Bottom part of Enclosure STL</a>
+<a href="mechanical/KeyPadEnclosure_top.stl">Top part of Enclosure STL</a>
 
 <h2>November 11, 2019</h2>
 
