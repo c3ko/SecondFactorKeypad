@@ -11,6 +11,7 @@ The snap-fit enclosure case for the keypad will have a support cross-section for
 The files can be found at:
 
 <a href="mechanical/KeyPadEnclosure_bottom.stl">Bottom part of Enclosure STL</a>
+
 <a href="mechanical/KeyPadEnclosure_top.stl">Top part of Enclosure STL</a>
 
 <h2>November 11, 2019</h2>
