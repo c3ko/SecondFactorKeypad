@@ -2,7 +2,15 @@
 
 <h3>Enclosure Progress</h3>
 
-<p></p>
+<p>
+The snap-fit enclosure case for the keypad will have a support cross-section for the keypad to rest on as its current cantilevered position will damage the sockets/pins when pressure is applied to the buttons.
+</p>
+
+Top K
+<img src="mechanical/KeyPadEnclosure_bottom.stl" height="20%" width="20%" alt="keypad bottom enclosure" />
+
+<img src="mechanical/KeyPadEnclosure_top.stl" height="20%" width="20%" alt="keypad top enclosure" />
+
 <h2>November 11, 2019</h2>
 
 <h3>PCB Powered On</h3>
