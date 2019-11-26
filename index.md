@@ -25,8 +25,8 @@ The files can be found at:
 
 Update: As of November 26, 2019. The enclosure has finished printing but is currently in solution to remove the support material. The tentative date for completion is November 27, 2019.
 
-<img src="images/bottom_enclosure_progress.jpg" height="20%" width="20%" alt="keypad pinout" />
-<img src="images/top_enclosure_progress.jpg" height="20%" width="20%" alt="keypad pinout" />
+<img src="images/bottom_enclosure_progress.jpg" height="20%" width="20%" alt="bottom enclosure progress picture" />
+<img src="images/top_enclosure_progress.jpg" height="20%" width="20%" alt="top enclosure progress picture" />
 
 <h2>November 11, 2019</h2>
 
