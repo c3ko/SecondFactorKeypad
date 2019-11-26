@@ -3,7 +3,7 @@
 <h3>Presentation</h3>
 
 <p>
-Presentation slides have been completed and can be found under the <a href="documentation/">documentation folder</a>
+Presentation slides have been completed and can be found under the <a href="documentation/CENG317Presentation.pptx">documentation folder</a>
 </p>
 
 <h2>November 19, 2019</h2>
