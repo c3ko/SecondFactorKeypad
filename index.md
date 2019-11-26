@@ -1,3 +1,11 @@
+<h2>November 26, 2019</h2>
+
+<h3>Presentation</h3>
+
+<p>
+Presentation slides have been completed and can be found under the <a href="mechanical/KeyPadEnclosure_top.stl">documentation folder</a>
+</p>
+
 <h2>November 19, 2019</h2>
 
 <h3>Enclosure Progress</h3>
@@ -13,6 +21,12 @@ The files can be found at:
 <a href="mechanical/KeyPadEnclosure_bottom.stl">Bottom part of Enclosure STL</a>
 
 <a href="mechanical/KeyPadEnclosure_top.stl">Top part of Enclosure STL</a>
+
+
+Update: As of November 26, 2019. The enclosure has finished printing but is currently in solution to remove the support material. The tentative date for completion is November 27, 2019.
+
+<img src="images/bottom_enclosure_progress.jpg" height="20%" width="20%" alt="keypad pinout" />
+<img src="images/top_enclosure_progress.jpg" height="20%" width="20%" alt="keypad pinout" />
 
 <h2>November 11, 2019</h2>
 
