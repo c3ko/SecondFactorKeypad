@@ -1,4 +1,4 @@
-<h2>November 26, 2019</h2>
+<h2>December 3, 2019</h2>
 
 <h3>Update</h3>
 
@@ -9,15 +9,15 @@
   First 3D printing attempt at Idealab failed due to problems with filament. Vertical support on second 3D printed case was too high. Due to time restriction opted for a acrylic Case instead. This has added advantage of making LEDs easily visible withing creating holes for them in the case. Unfortunately didn't communicate need for clear acrylic case, will be sending for a clear top case this week. However, for the presentation I purchased an enclosure that fit my project from Amazon and milled holes using a Dremel handtool and circular saw.
 
 Case used during presentation with old PCB:
-<img src="images/presentation enclosure.jpg" alt="Presentation enclosure" />
+<img src="images/presentation enclosure.jpg" height="30%" width="30%" alt="Presentation enclosure" />
 
 Updated PCB:
- <img src="images/new_pcb.jpg" alt="Updated PCB" />
+ <img src="images/new_pcb.jpg" height="30%" width="30%" alt="Updated PCB" />
 </p>
 
 Failed 3D printed case:
-<img src="images/bottom_enclosure_progress.jpg" alt="3d case bottom" />
-<img src="images/top_enclosure_progress.jpg" alt="3d case bottom" />
+<img src="images/bottom_enclosure_progress.jpg" height="30%" width="30%" alt="3d case bottom" />
+<img src="images/top_enclosure_progress.jpg" height="30%" width="30%" alt="3d case bottom" />
 
 <h2>November 26, 2019</h2>
 
