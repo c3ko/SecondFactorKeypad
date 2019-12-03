@@ -1,6 +1,27 @@
 <h2>November 26, 2019</h2>
 
-<h3>Presentation</h3>
+<h3>Update</h3>
+
+
+<p>
+  
+  Redesigned PCB to include LED lights and Piezzo speaker to indicate correct/incorrect pin.
+  First 3D printing attempt at Idealab failed due to problems with filament. Vertical support on second 3D printed case was too high. Due to time restriction opted for a acrylic Case instead. This has added advantage of making LEDs easily visible withing creating holes for them in the case. Unfortunately didn't communicate need for clear acrylic case, will be sending for a clear top case this week. However, for the presentation I purchased an enclosure that fit my project from Amazon and milled holes using a Dremel handtool and circular saw.
+
+Case used during presentation with old PCB:
+<img src="presentation enclosure.jpg" alt="Presentation enclosure" />
+
+Updated PCB:
+ <img src="images/new_pcb.jpg" alt="Updated PCB" />
+</p>
+
+Failed 3D printed case:
+<img src="images/bottom_enclosure_progress.jpg" alt="3d case bottom" />
+<img src="images/top_enclosure_progress.jpg" alt="3d case bottom" />
+
+<h2>November 26, 2019</h2>
+
+<h3>Presentation Handed In</h3>
 
 <p>
 Presentation slides have been completed and can be found under the <a href="documentation/CENG317Presentation.pptx">documentation folder</a>
