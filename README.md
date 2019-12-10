@@ -39,19 +39,38 @@ The 12-Button Matrix Keypad uses a matrix of switches to track which column and 
 Upload Method is set to STM32CubeProgrammer(SWD).
 
 ### Soldering and Assembly
+Use the following image as guide for correct position of board on to sockets:
 
-<br/>Here are the following pins that you should know for this project:
+<img src="/images/new_pcb.jpg" width="15%" height="15%" />
+
+The PCB Gerber files used for printing the board can be found at https://github.com/c3ko/SecondFactorKeypad/blob/master/mechanical/MohamedKore_SecondFactorKeypadV3.zip
 ##### Keypad Pins
-* 
+* Solder Pins on to the Keypad.
+
+#### PCB Pins
+
+* Solder 7-pin single-line header socket on to board
+* Solder 2 15-pin single line header sockets on to board
+* Solder 3 330 ohm Resistors on to board at output pins for D10, D11, D12
+
+* Solder Piezzo speaker and LED in to their positions based on schematic
+<br/>
+
   
 #### Enclosure
+Enclosure can be produced using laser cutting of Acrylic. File for cutting can be found at:
 
 ### Power Up
-
+When PCB hand connected components are inside the enclosure
 ### Testing
 
 #### Unit Testing
 
+
 #### Production Testing
 
 ### Reference
+
+1.https://circuitdigest.com/microcontroller-projects/getting-started-with-stm32-development-board-stm32f103c8-using-arduino-ide
+
+2. https://playground.arduino.cc/Code/Keypad/
