@@ -32,7 +32,9 @@ The 12-Button Matrix Keypad uses a matrix of switches to track which column and 
 4) Plug the micro usb from the Nucleo in to the computer.
 5) Click on Tools > Board > Boards Manager and install STM32 Core from the list.
 6) Click Tools > Board and select Nucleo-32 and then click Tools > Board Part Number and select Nucleo L432KC.
-6) Click 
+6) Click Tool > Port and select the port the board is connected to.
+7) Install the Keypad.h library by downloading keypad.zip from https://playground.arduino.cc/Code/Keypad/ and install it by clicking Sketch > Include Library > ADD .zip file and select keypad.zip file you downloaded.
+7) Download/Copy the source code from 
 
 ### Soldering and Assembly
 
