@@ -79,7 +79,10 @@ Test each of the LEDs and the piezzo speaker by setting their digital outputs in
 #### Production Testing
 
 
+### Reproducability
+The project is fairly simple as all of the components (resistors, keypad, led etc.) are well stocked at major electronic parts suppliers (Digi-key & Mouser). The development environment works on all major operating systems and all of the code has been provided.
 
+The device is rather simple
 ### Reference
 
 1.https://circuitdigest.com/microcontroller-projects/getting-started-with-stm32-development-board-stm32f103c8-using-arduino-ide
