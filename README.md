@@ -34,7 +34,9 @@ The 12-Button Matrix Keypad uses a matrix of switches to track which column and 
 6) Click Tools > Board and select Nucleo-32 and then click Tools > Board Part Number and select Nucleo L432KC.
 6) Click Tool > Port and select the port the board is connected to.
 7) Install the Keypad.h library by downloading keypad.zip from https://playground.arduino.cc/Code/Keypad/ and install it by clicking Sketch > Include Library > ADD .zip file and select keypad.zip file you downloaded.
-7) Download/Copy the source code from 
+7) Download/Copy the source code from https://github.com/c3ko/SecondFactorKeypad/blob/master/software/blink_example1.ino
+8) Click Sketch > Upload and then Tools > Serial Monitor to see serial output. Make sure Tools > 
+Upload Method is set to STM32CubeProgrammer(SWD).
 
 ### Soldering and Assembly
 
