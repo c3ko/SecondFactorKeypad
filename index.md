@@ -1,3 +1,9 @@
+<h2> December 10, 2019 </h2>
+
+<h3> Project Completion and Build Instructions </h3>
+
+The presentation for this hardware project has been completed and the build instructions for replicating the device is in the README for the project.
+
 <h2>December 3, 2019</h2>
 
 <h3>Update</h3>
