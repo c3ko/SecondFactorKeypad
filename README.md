@@ -41,7 +41,7 @@ Upload Method is set to STM32CubeProgrammer(SWD).
 ### Soldering and Assembly
 Use the following image as guide for correct position of board on to sockets:
 
-<img src="/images/new_pcb.jpg" width="15%" height="15%" />
+<img src="/images/new_pcb.jpg" width="25%" height="25%" />
 
 The PCB Gerber files used for printing the board can be found at https://github.com/c3ko/SecondFactorKeypad/blob/master/mechanical/MohamedKore_SecondFactorKeypadV3.zip
 ##### Keypad Pins
@@ -53,19 +53,23 @@ The PCB Gerber files used for printing the board can be found at https://github.
 * Solder 2 15-pin single line header sockets on to board
 * Solder 3 330 ohm Resistors on to board at output pins for D10, D11, D12
 
-* Solder Piezzo speaker and LED in to their positions based on schematic
+* Solder Piezzo speaker and LED in to their positions based on pCB image above
 <br/>
 
   
 #### Enclosure
 Enclosure can be produced using laser cutting of Acrylic. File for cutting can be found at:
+https://github.com/c3ko/SecondFactorKeypad/blob/master/MohamedKoreBoxCase.cdr
+
+Use a peice of styrofoam or hard plastic cut to 17mm height 53mm width, 53mm  length to be placed under cantilevered keypad as support.
 
 ### Power Up
-When PCB hand connected components are inside the enclosure
+When PCB hand connected components are inside the enclosure. Plug the Nucleo-32 in to computer using micro-USB outlet on side of enclosure.
 ### Testing
 
 #### Unit Testing
 
+After soldering the pins on to the Key
 
 #### Production Testing
 
