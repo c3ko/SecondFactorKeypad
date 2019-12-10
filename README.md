@@ -69,9 +69,16 @@ When PCB hand connected components are inside the enclosure. Plug the Nucleo-32 
 
 #### Unit Testing
 
-After soldering the pins on to the Key
+After soldering the pins on to the keypad. Use a multimeter to measure resistance between the corresponding Row/Column pin for each button. The resistance should drop when button is pressed:
+
+<img src="images/pinout.png" height="20%" width="20%" alt="keypad pinout" />
+
+Test each of the LEDs and the piezzo speaker by setting their digital outputs in the Arduino IDE to high and uploading that sketch to the Nucleo-32.
+
 
 #### Production Testing
+
+
 
 ### Reference
 
