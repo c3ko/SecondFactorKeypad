@@ -1,4 +1,4 @@
-# Build Instructions for Raspberry Pi GPS Sensor
+# Build Instructions for Second Factor Keypad
 
 ## Table of Contents
 1. [Introduction](#introduction)
